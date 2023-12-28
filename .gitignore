@@ -1,0 +1,15 @@
+# properties
+*.properties
+
+# virtual env
+venv
+
+# cache
+/util/__pycache__/*
+
+# excel files
+*.xls
+*.xlsx
+
+# vscode
+.vscode

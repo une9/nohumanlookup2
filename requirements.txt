@@ -1,0 +1,6 @@
+et-xmlfile==1.1.0
+jproperties==2.1.1
+PyMySQL==1.1.0
+pywin32==306
+six==1.16.0
+xlwings==0.30.10
